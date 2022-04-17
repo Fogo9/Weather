@@ -30,8 +30,6 @@
 
                     Scanner input = new Scanner(System.in);
 
-
-
 ```
 
 ```Java
@@ -62,11 +60,8 @@
                         System.out.println("You can go Swimming.");
 
                     }
-
                 }
             }
-
-
 
 ```
 
