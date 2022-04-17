@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
 public class Weather{
+    
     public static void main(String[] args) {
 
         int heat;
@@ -33,8 +34,7 @@ public class Weather{
         } else {
 
             System.out.println("You can go Swimming.");
-
+            
         }
-
     }
 }
