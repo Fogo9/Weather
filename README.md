@@ -1,14 +1,14 @@
 # **WEATHER**
 
-# Information
+## INFORMATION
 
 * **When you enter the temperature, it gives you advice on what to do.**
 
-# Technologies Used
+## TECHNOLOGIES USED
 
 * **JAVA**
 
-# Contents
+## CONTENTS
 
 * This project, it is written using only heat int variable.
 
@@ -16,9 +16,7 @@
 
 * If the temperature value is within a certain range, it makes suggestions accordingly.
 
-<br />
-
-# Codes
+## CODES
 
 ```Java
 
@@ -100,13 +98,13 @@
 ```
 <br />
 
-# LINK
+## LINK
 
 * Click here https://github.com/Fogo9/Weather.git to access the Github page for this project.
 
 <br />
 
-# LICENSE
+## LICENSE
 
 * This software is licensed By Tuncay Demir under the MIT license.
 
